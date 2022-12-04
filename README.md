@@ -37,6 +37,5 @@ Here are some ideas to get you started:
 
 #
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkseonho1&theme=buefy&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkseonho1&layout=compact&theme=vue)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkseonho1&theme=buefy&show_icons=true)
 <div>
